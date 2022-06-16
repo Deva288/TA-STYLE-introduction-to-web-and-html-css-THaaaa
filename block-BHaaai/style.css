@@ -1,0 +1,38 @@
+body {
+    background-color: blueviolet;
+}
+
+a {
+    color: red;
+}
+
+h2 {
+    color: greenyellow
+}
+
+h1 {
+    color: white;
+}
+
+.footer {
+    background-color: #11244d;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 14px;
+}
+
+.header {
+    text-align: center;
+}
+
+.logo {
+    height: 200px;
+    width: 160px;
+}
