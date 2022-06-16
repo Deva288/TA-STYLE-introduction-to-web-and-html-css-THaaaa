@@ -1,0 +1,25 @@
+body {
+    background-color: blue;
+    color: white;
+}
+
+a {
+    color: red;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 12px
+}
+
+h3 {
+    color: white;
+}
